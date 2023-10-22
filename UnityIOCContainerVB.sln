@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UnityIOCContainerVB", "UnityIOCContainerVB\UnityIOCContainerVB.vbproj", "{32A818DC-394F-41C9-AD37-E61BA0C2A9BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A818DC-394F-41C9-AD37-E61BA0C2A9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A818DC-394F-41C9-AD37-E61BA0C2A9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A818DC-394F-41C9-AD37-E61BA0C2A9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A818DC-394F-41C9-AD37-E61BA0C2A9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF4C6C8-6708-4E97-A256-AE28DF0C0895}
+	EndGlobalSection
+EndGlobal
